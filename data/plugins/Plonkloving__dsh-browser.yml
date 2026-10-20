@@ -1,0 +1,6 @@
+url: https://github.com/Plonkloving/dsh-browser
+name: Plonkloving/dsh-browser
+category: browser
+description:
+  en: Tabbed browser panel with DeepSeek-backed search, workspace-bound browsing profiles, declarative extensions, a sandboxed page renderer and downloads to the local disk.
+  zh: 多标签浏览器面板：DeepSeek 搜索、绑定工作区的浏览档案、声明式扩展、沙箱化页面渲染，以及下载到本地磁盘。
